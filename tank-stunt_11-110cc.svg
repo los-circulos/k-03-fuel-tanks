@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1583"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="tank-stunt_11-110cc.svg">
+  <defs
+     id="defs1577" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8649574"
+     inkscape:cx="389.02599"
+     inkscape:cy="598.01741"
+     inkscape:document-units="mm"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="3440"
+     inkscape:window-height="1384"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1583">
+    <sodipodi:guide
+       position="50.743302,272.90403"
+       orientation="1,0"
+       id="guide2152" />
+    <sodipodi:guide
+       position="28.754481,293.93199"
+       orientation="0,-1"
+       id="guide2154" />
+    <sodipodi:guide
+       position="100.7433,105.49335"
+       orientation="1,0"
+       id="guide2214" />
+    <sodipodi:guide
+       position="24.743321,220.41203"
+       orientation="1,0"
+       id="guide2300" />
+    <sodipodi:guide
+       position="160.7433,73.471161"
+       orientation="1,0"
+       id="guide2342" />
+    <sodipodi:guide
+       position="260.74329,206.93199"
+       orientation="1,0"
+       id="guide2346" />
+    <sodipodi:guide
+       position="37.743326,209.93199"
+       orientation="0,-1"
+       id="guide4662" />
+    <sodipodi:guide
+       position="70.743299,206.93199"
+       orientation="0,-1"
+       id="guide4689" />
+    <sodipodi:guide
+       position="150.7433,206.93199"
+       orientation="1,0"
+       id="guide4711" />
+    <sodipodi:guide
+       position="163.7433,67.131988"
+       orientation="0,-1"
+       id="guide5427" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1580">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="cut lines only"
+     inkscape:groupmode="layer"
+     id="g2334"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.743302,3.0680107 h 19.999997 v 2.99999 h 19.999999 v -2.99999 H 110.7433 v 2.99999 h 20 v -2.99999 h 20 m 0,37.0000023 -20,-1.4e-5 V 37.068 h -20 v 2.999999 H 90.743298 V 37.068 H 70.743299 v 2.999999 H 50.743302"
+       id="path2320"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:label="long side" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.743302,60.067989 h 19.999997 v 2.99999 h 19.999999 v -2.99999 H 110.7433 v 2.99999 h 20 v -2.99999 h 20 m 0,37.000002 -20,-1.4e-5 v -2.999999 h -20 v 2.999999 H 90.743298 V 94.067978 H 70.743299 v 2.999999 H 50.743302"
+       id="path2332"
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       inkscape:label="long side" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.7433,109.46798 h -20 v 3 h -30 v -3 H 70.743302 v 3 h -20 m 0,12.4 h 20 v 3 h 20 v -3 H 110.7433 v 3 h 20 v -3 h 20"
+       id="path2326"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:label="top side" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.743302,3.0680108 V 18.067969 h 2.999999 V 28.06797 h -2.999999 v 46.999975 h 2.999999 v 8.99968 h -2.999999 v 40.800355"
+       id="path2470"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 150.7433,3.0680108 V 18.067969 h -2.99998 V 28.06797 h 2.99998 v 46.999975 h -2.99998 v 8.99968 h 2.99998 v 40.800355"
+       id="path2497"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.743302,39.303044 h -3 l -0.0011,10.764976 H 27.746107 l -0.0028,-10.764976 H 24.74332 V 29.303033 h 2.999983 V 17.312154 l 10.000022,-9.99804 9.999977,9.99804 v 11.990879 h 3"
+       id="path4703"
+       inkscape:label="side cut"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.743302,75.067945 v 8.223008 h -3 l -0.0011,10.764977 H 27.746107 l -0.0028,-10.764977 H 24.74332 V 73.290942 h 2.999983 V 61.300063 l 10.000022,-9.99804 9.999977,9.99804 v 11.990879 h 3"
+       id="path4719"
+       inkscape:label="side cut"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <path
+     id="path4679"
+     style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:type="inkscape:offset"
+     inkscape:radius="0"
+     inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
+     d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
+     inkscape:label="side outline"
+     transform="translate(0,5.482073)" />
+  <g
+     id="g2378"
+     inkscape:label="brass sheet cut layout"
+     style="display:inline">
+    <g
+       id="g5581"
+       inkscape:label="one side with ears">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 163.7433,199.99579 v -3 h -3 v -37 l 3,0.0469 -2.15695,-2.15693 13.02344,-13.02344 2.15695,2.15695 2.14754,-2.14755 12.97656,12.97656 -2.14754,2.14754 3,1e-5 v 37 h -3 v 3 z"
+         id="path5465"
+         inkscape:label="side cut line" />
+      <path
+         id="path5425"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
+         d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
+         inkscape:label="side bend line"
+         transform="translate(139.0226,149.43333)" />
+    </g>
+    <g
+       id="g5577"
+       inkscape:label="main piece">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 160.7433,139.86801 3,3 h 94 l 2.99997,-3"
+         id="path2370"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect5518"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="M 160.7433,139.86801 V 3.0680106 h 99.99999 l -10e-6,136.7999994"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 160.7433,40.068013 h 99.99998"
+         id="path5527" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 260.74328,58.468008 H 160.7433"
+         id="path5529" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 160.7433,76.868011 h 99.99998"
+         id="path5531" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 260.74328,113.86801 H 160.7433"
+         id="path5533" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 160.7433,139.86801 h 99.99998"
+         id="path5535" />
+    </g>
+    <g
+       id="g5587"
+       inkscape:label="one side with ears"
+       transform="translate(34.135473)">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 163.7433,199.99579 v -3 h -3 v -37 l 3,0.0469 -2.15695,-2.15693 13.02344,-13.02344 2.15695,2.15695 2.14754,-2.14755 12.97656,12.97656 -2.14754,2.14754 3,1e-5 v 37 h -3 v 3 z"
+         id="path5583"
+         inkscape:label="side cut line" />
+      <path
+         id="path5585"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
+         d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
+         inkscape:label="side bend line"
+         transform="translate(139.0226,149.43333)" />
+    </g>
+    <path
+       id="path5591"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="0"
+       inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
+       d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
+       inkscape:label="baffle"
+       transform="translate(205.74604,149.43333)" />
+  </g>
+  <g
+     id="g5568"
+     inkscape:label="texts"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.358154"
+       y="139.47681"
+       id="text5602"><tspan
+         sodipodi:role="line"
+         id="tspan5600"
+         x="62.358154"
+         y="139.47681"
+         style="stroke-width:0.264583">@los.circulos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.949818"
+       y="-44.809723"
+       id="text5469"><tspan
+         sodipodi:role="line"
+         id="tspan5467"
+         x="29.949818"
+         y="-44.809723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">These are laser cut templates </tspan><tspan
+         sodipodi:role="line"
+         x="29.949818"
+         y="-31.580599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5471">to make a wooden &quot;box&quot; which</tspan><tspan
+         sodipodi:role="line"
+         x="29.949818"
+         y="-18.351475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5475">can be used to bend the copper </tspan><tspan
+         sodipodi:role="line"
+         x="29.949818"
+         y="-5.1223493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5479">sheet. Cut from 3mm ply.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="166.55202"
+       y="-44.809723"
+       id="text5489"><tspan
+         sodipodi:role="line"
+         x="166.55202"
+         y="-44.809723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5487">These are the templates </tspan><tspan
+         sodipodi:role="line"
+         x="166.55202"
+         y="-31.580599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5604">to be cut out of copper sheet. </tspan><tspan
+         sodipodi:role="line"
+         x="166.55202"
+         y="-18.351475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5608">Cut from 0.1 ... 0.2 mm sheet</tspan><tspan
+         sodipodi:role="line"
+         x="166.55202"
+         y="-5.1223493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan7141">depending on final length.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.75448"
+       y="-72.663834"
+       id="text5510"><tspan
+         sodipodi:role="line"
+         x="28.75448"
+         y="-72.663834"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.8167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan5512">110CC &quot;stunt 11&quot; tank</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.885155"
+       y="243.32442"
+       id="text5540"><tspan
+         sodipodi:role="line"
+         id="tspan5538"
+         x="29.885155"
+         y="243.32442"
+         style="stroke-width:0.264583">This design respects 100mm wide copper</tspan><tspan
+         sodipodi:role="line"
+         x="29.885155"
+         y="256.55353"
+         style="stroke-width:0.264583"
+         id="tspan5542">sheet. Scale long pieces to make a tank</tspan><tspan
+         sodipodi:role="line"
+         x="29.885155"
+         y="269.78265"
+         style="stroke-width:0.264583"
+         id="tspan5544">with same profile but different volume.</tspan><tspan
+         sodipodi:role="line"
+         x="29.885155"
+         y="283.01178"
+         style="stroke-width:0.264583"
+         id="tspan5548">Scale only long pieces eg. do NOT scale sides.</tspan><tspan
+         sodipodi:role="line"
+         x="29.885155"
+         y="296.24091"
+         style="stroke-width:0.264583"
+         id="tspan7863">Every cm of length gives 11cc capacity, thus</tspan><tspan
+         sodipodi:role="line"
+         x="29.885155"
+         y="309.47003"
+         style="stroke-width:0.264583"
+         id="tspan7865">the name &quot;stunt 11&quot;</tspan></text>
+  </g>
+</svg>
