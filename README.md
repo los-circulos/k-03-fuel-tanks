@@ -16,6 +16,7 @@ Files provided for each design (substitute k_9 with preferred design name):
 - tank-k_9-45cc-cut-100.svg - cut file for balsa (100mm wide board)
 
 @los.circulos
+instagram.com/los.circulos
 github.com/los-circulos
 #controlline #vuelocircular #uコン #opensource
 
