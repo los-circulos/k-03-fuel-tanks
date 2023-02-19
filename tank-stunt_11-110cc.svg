@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8649574"
-     inkscape:cx="389.02599"
-     inkscape:cy="598.01741"
+     inkscape:zoom="2.446469"
+     inkscape:cx="25.913978"
+     inkscape:cy="579.13502"
      inkscape:document-units="mm"
      inkscape:document-rotation="0"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1583">
+     inkscape:current-layer="g2413">
     <sodipodi:guide
        position="50.743302,272.90403"
        orientation="1,0"
@@ -50,7 +50,7 @@
        orientation="1,0"
        id="guide2214" />
     <sodipodi:guide
-       position="24.743321,220.41203"
+       position="21.743338,180.69697"
        orientation="1,0"
        id="guide2300" />
     <sodipodi:guide
@@ -61,10 +61,6 @@
        position="260.74329,206.93199"
        orientation="1,0"
        id="guide2346" />
-    <sodipodi:guide
-       position="37.743326,209.93199"
-       orientation="0,-1"
-       id="guide4662" />
     <sodipodi:guide
        position="70.743299,206.93199"
        orientation="0,-1"
@@ -77,6 +73,14 @@
        position="163.7433,67.131988"
        orientation="0,-1"
        id="guide5427" />
+    <sodipodi:guide
+       position="230.49019,6.4869119"
+       orientation="1,0"
+       id="guide2395" />
+    <sodipodi:guide
+       position="163.7433,10.00421"
+       orientation="0,-1"
+       id="guide2406" />
   </sodipodi:namedview>
   <metadata
      id="metadata1580">
@@ -109,32 +113,32 @@
        inkscape:label="long side" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 150.7433,109.46798 h -20 v 3 h -30 v -3 H 70.743302 v 3 h -20 m 0,12.4 h 20 v 3 h 20 v -3 H 110.7433 v 3 h 20 v -3 h 20"
+       d="M 150.7433,115.46798 H 50.743302 m 0,13.4 h 20 v 3 h 20 v -3 H 110.7433 v 3 h 20 v -3 h 20"
        id="path2326"
-       sodipodi:nodetypes="cccccccccccccccccc"
+       sodipodi:nodetypes="cccccccccccc"
        inkscape:label="top side" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 50.743302,3.0680108 V 18.067969 h 2.999999 V 28.06797 h -2.999999 v 46.999975 h 2.999999 v 8.99968 h -2.999999 v 40.800355"
+       d="M 50.743302,3.0680108 V 18.067969 h 2.999999 V 28.06797 h -2.999999 v 46.999975 h 2.999999 l 0.06436,9.999675 h -2.999999 l -0.06437,43.80036"
        id="path2470"
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 150.7433,3.0680108 V 18.067969 h -2.99998 V 28.06797 h 2.99998 v 46.999975 h -2.99998 v 8.99968 h 2.99998 v 40.800355"
+       d="M 150.7433,3.0680108 V 18.067969 h -2.99998 V 28.06797 h 2.99998 v 46.999975 h -2.99998 l 0.0644,9.999675 h 2.99998 l -0.0644,43.80036"
        id="path2497"
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50.743302,39.303044 h -3 l -0.0011,10.764976 H 27.746107 l -0.0028,-10.764976 H 24.74332 V 29.303033 h 2.999983 V 17.312154 l 10.000022,-9.99804 9.999977,9.99804 v 11.990879 h 3"
+       d="m 47.74332,39.303044 h -3 L 44.74222,50.06802 H 24.746125 l -0.0028,-10.764976 H 21.743338 V 29.303033 h 2.999983 V 17.312154 l 10.000022,-9.99804 9.999977,9.99804 v 11.990879 h 3 z"
        id="path4703"
        inkscape:label="side cut"
        sodipodi:nodetypes="ccccccccccccc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50.743302,75.067945 v 8.223008 h -3 l -0.0011,10.764977 H 27.746107 l -0.0028,-10.764977 H 24.74332 V 73.290942 h 2.999983 V 61.300063 l 10.000022,-9.99804 9.999977,9.99804 v 11.990879 h 3"
+       d="m 47.74332,75.067945 h -3 V 63.077066 l -9.999977,-9.99804 -10.000022,9.99804 v 11.990879 h -2.999983 v 10.000011 h 2.999987 l 0.0028,10.764977 H 44.74222 l 0.0011,-10.764977 h 3 z"
        id="path4719"
        inkscape:label="side cut"
-       sodipodi:nodetypes="cccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
   <path
      id="path4679"
@@ -144,7 +148,7 @@
      inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
      d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
      inkscape:label="side outline"
-     transform="translate(0,5.482073)" />
+     transform="translate(-3.0008031,5.482073)" />
   <g
      id="g2378"
      inkscape:label="brass sheet cut layout"
@@ -220,15 +224,25 @@
          inkscape:label="side bend line"
          transform="translate(139.0226,149.43333)" />
     </g>
-    <path
-       id="path5591"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:type="inkscape:offset"
-       inkscape:radius="0"
-       inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
-       d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
-       inkscape:label="baffle"
-       transform="translate(205.74604,149.43333)" />
+    <g
+       id="g2393"
+       inkscape:label="one side with ears"
+       transform="translate(67.999989)">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 163.7433,199.99579 v -3 h -3 v -37 l 3,0.0469 -2.15695,-2.15693 13.02344,-13.02344 2.15695,2.15695 2.14754,-2.14755 12.97656,12.97656 -2.14754,2.14754 3,1e-5 v 37 h -3 v 3 z"
+         id="path2389"
+         inkscape:label="side cut line" />
+      <path
+         id="path2391"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 37.744141 -2.4140625 L 24.744141 10.585938 L 24.744141 47.585938 L 50.744141 47.585938 L 50.744141 10.585938 L 37.744141 -2.4140625 z "
+         d="m 37.744141,-2.4140625 -13,13.0000005 v 37 h 26 v -37 z"
+         inkscape:label="side bend line"
+         transform="translate(139.0226,149.43333)" />
+    </g>
   </g>
   <g
      id="g5568"
@@ -237,13 +251,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="62.358154"
-       y="139.47681"
+       x="79.557678"
+       y="150.06015"
        id="text5602"><tspan
          sodipodi:role="line"
          id="tspan5600"
-         x="62.358154"
-         y="139.47681"
+         x="79.557678"
+         y="150.06015"
          style="stroke-width:0.264583">@los.circulos</tspan></text>
     <text
        xml:space="preserve"
@@ -344,5 +358,21 @@
          y="309.47003"
          style="stroke-width:0.264583"
          id="tspan7865">the name &quot;stunt 11&quot;</tspan></text>
+  </g>
+  <g
+     id="g2413"
+     inkscape:label="templates to press end caps and buffer">
+    <path
+       id="path2399"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:label="cap press outer"
+       d="m 43.743334,133.24189 -21.999994,12.46517 -2e-6,54.28873 h 43.999976 v -54.28873 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path2415"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.02;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="cap press outline small"
+       d="m 43.743337,143.50845 -12.65,12.64809 1e-6,35.05192 h 25.299999 l -1e-6,-35.05192 z"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
